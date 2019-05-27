@@ -21,7 +21,6 @@ end
 def last_evaluated_value(a)
   a = "expert"
   return a
-
 end
 
 last_evaluated_value
