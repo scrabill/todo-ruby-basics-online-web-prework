@@ -15,7 +15,7 @@ def greeting
 end
 
 def return_a_value(a)
-  a = "nice"
+  a = "Nice"
   return a
 end
 
