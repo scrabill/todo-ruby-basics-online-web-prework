@@ -11,8 +11,10 @@ def argue
 end
 
 def greeting(a,b)
-
+  return
 end
+
+greeting("Hi there, ","Bobby!")
 
 def return_a_value
   return "Nice"
