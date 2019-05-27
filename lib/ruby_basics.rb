@@ -19,6 +19,8 @@ def return_a_value(a)
   return a
 end
 
+return_a_value
+
 def last_evaluated_value(a="expert")
   return a
 end
