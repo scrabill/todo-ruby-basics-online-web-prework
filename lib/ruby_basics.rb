@@ -9,7 +9,7 @@ def assign_variable(value)
   return value
 end
 
-assign_variable
+assign_variable("Bob")
 
 def argue(a)
   return a
