@@ -14,7 +14,7 @@ def argue(a)
   return a
 end
 
-argue
+argue("I'm right and you are wrong!")
 
 def greeting(a,b)
   return
